@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Stack and Queue.iml" filepath="$PROJECT_DIR$/.idea/Stack and Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apj-my-linked-list-queue/apj-my-linked-list-queue.iml" filepath="$PROJECT_DIR$/apj-my-linked-list-queue/apj-my-linked-list-queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/apj-stack-generic/apj-stack-generic.iml" filepath="$PROJECT_DIR$/untitled/apj-stack-generic/apj-stack-generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap1/baitap1.iml" filepath="$PROJECT_DIR$/baitap1/baitap1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuc_hanh/thuc_hanh.iml" filepath="$PROJECT_DIR$/thuc_hanh/thuc_hanh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trien khai stack/trien khai stack.iml" filepath="$PROJECT_DIR$/trien khai stack/trien khai stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
